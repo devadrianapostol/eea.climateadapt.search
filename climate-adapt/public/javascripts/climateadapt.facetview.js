@@ -11,7 +11,7 @@ window.esbootstrap_options = {
             'display_desc': 'Newest'
         }
     ],
-    sort: [{'http://purl.org/dc/terms/issued': {'order': 'desc'}}],
+    sort: [{'issued': {'order': 'desc'}}],
     paging: {
         from: 0,
         size: 50
